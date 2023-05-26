@@ -1,8 +1,12 @@
-<div style="text-align:center;">
+<div align="center">
 
 # lcg-rand
 
 Lightweight open source random number generator built in Rust, using the Linear Congruential Generator algorithm. A select few ease-of-life functions have been added.
+
+![GitHub](https://img.shields.io/github/license/ForestJ2/lcg-rand?color=f84&style=flat-square)&nbsp;&nbsp; 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ForestJ2/lcg-rand?display_name=tag&style=flat-square)&nbsp;&nbsp;
+![GitHub Release Date](https://img.shields.io/github/release-date/ForestJ2/lcg-rand?style=flat-square)
 
 </div>
 <hr>
