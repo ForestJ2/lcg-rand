@@ -2,11 +2,13 @@
 name = "lcg-rand"
 version = "1.0.0"
 edition = "2021"
-description = "Lightweight open source random number generator using the Linear Congruential Generator algorithm."
 readme = "README.md"
 license-file = "LICENSE.md"
 license = "MIT"
 repository = "https://github.com/ForestJ2/lcg-rand"
+description = "Lightweight open source random number generator using the Linear Congruential Generator algorithm."
+keywords = ["random", "rand", "lcg", "number", "generator"]
+categories = ["algorithms", "mathematics"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
