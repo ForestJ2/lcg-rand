@@ -9,6 +9,7 @@ repository = "https://github.com/ForestJ2/lcg-rand"
 description = "Lightweight open source random number generator using the Linear Congruential Generator algorithm."
 keywords = ["random", "rand", "lcg", "number", "generator"]
 categories = ["algorithms", "mathematics"]
+exclude = ["/.idea"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
