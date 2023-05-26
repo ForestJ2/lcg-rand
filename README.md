@@ -1,8 +1,11 @@
-<div style="text-align:center;">
+<div align="center">
 
 # lcg-rand
 
 Lightweight open source random number generator built in Rust, using the Linear Congruential Generator algorithm. A select few ease-of-life functions have been added.
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 </div>
 <hr>
