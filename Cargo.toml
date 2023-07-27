@@ -14,3 +14,9 @@ exclude = ["/.idea"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+rand_core = "0.6"
+serde = { version = "1.0", optional = true, features = ["derive"] }
+
+[features]
+debug = []
+serde = ["dep:serde", "rand_core/serde1"]
