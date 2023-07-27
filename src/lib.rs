@@ -16,6 +16,7 @@ pub mod rand {
 
     #[cfg_attr(feature = "debug", derive(Debug))]
     #[cfg_attr(feature = "serde", derive(serde::Serialize, serde::Deserialize))]
+    #[derive(Clone, PartialEq, Eq)]
     pub struct LCG {
         seed: u64,
         state: u64,
